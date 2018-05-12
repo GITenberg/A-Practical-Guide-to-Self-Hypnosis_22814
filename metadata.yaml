@@ -1,0 +1,38 @@
+_repo: A-Practical-Guide-to-Self-Hypnosis_22814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Powers, Melvin
+    birthdate: 1922
+    gutenberg_agent_id: '25557'
+    url: http://www.gutenberg.org/2009/agents/25557
+description: All of us like to think that our actions and reactions are a result of
+  logical thought processes, but the fact is that suggestion influences our thinking
+  a great deal more than logic. Consciously or unconsciously, our feelings about almost
+  everything are largely molded by ready-made opinions and attitudes fostered by our
+  mass methods of communication. Self-hypnosis is a highly suggestible state wherein
+  the individual can direct suggestions to himself. It is a powerful tool in any therapeutic
+  process, and highly motivated subjects can parallel the success of hetero-hypnosis
+  through their own efforts. Self-hypnosis can be used as a palliative agent and can
+  even afford lasting results in many areas of the organism. Self-hypnosis can alleviate
+  distressing symptoms, substitute strong responses for weak responses, help overcome
+  bad habits, create good habits and help one's power of concentration. The total
+  personality is eventually changed to the point where it can function adequately
+  in an increasingly difficult environment.
+gutenberg_issued: '2007-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22814'
+  lccn: '61010664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Hypnotism'
+title: A Practical Guide to Self-Hypnosis
+url: http://www.gutenberg.org/ebooks/22814
